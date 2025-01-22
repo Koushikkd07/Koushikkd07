@@ -1,33 +1,21 @@
-Hi there! 👋
-Welcome to my GitHub profile. I’m Koushik Das, a second-year B.Tech student in Computer Science. I’m passionate about coding, technology, and creating innovative solutions. Here’s a bit about me and what I’m currently working on:
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-🚀 About Me
-Name: Koushik Das
-Age: 19
-Current Year: 2nd Year B.Tech in Computer Science
-Interests: Coding🧑‍💻,Cinematography🎥,Music🎵,Football⚽,Cricket🏏
-💻 Technologies & Skills
-Programming Languages: C, Golang
-Backend: Golang (Web Requests, URL Handling, File Handling)
-Video Editing: Adobe Premiere Pro
-🌱 Currently Learning
-Node.js
-Digital Image Processing
-🛠️ Projects
-Pradarshak:AI based chatbot for ticket booking
-URL Shortener: A URL shortener tool in Golang that takes a URL and returns a shortened version.
-🎯 Goals
-Hackathon: Participate in SIH and create impactful solutions
-🌟 Fun Fact
-I love blending technology with creativity, whether it’s through coding, video editing!😁
 
-📫 How to Reach Me
-Email: koushikkd07@gmail.com
-LinkedIn:https://www.linkedin.com/in/koushik-das-5b2228308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-Instagram:https://www.instagram.com/koushik_das05?igsh=ZnVpeXd0anVtZTA=
-Feel free to explore my repositories and don’t hesitate to reach out if you have any questions or just want to connect!
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/koushik das) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koushik_das05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/koushikkd07) 
 
-<!---
-Koushikkd07/Koushikkd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Koushikkd07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Koushikkd07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikkd07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Koushikkd07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Koushikkd07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
